@@ -10,6 +10,8 @@
   "author": "Michael Wakeling",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.1.4"
-  }
+    "mocha": "^6.1.4",
+    "mocha-junit-reporter": "^1.22.0"
+  },
+  "dependencies": {}
 }
